@@ -1,9 +1,6 @@
 <!-- Profile README – take it, fork it, tweak it, enjoy! -->
 
 <h1 align="center">Hey, I'm Alessio &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"></h1>
-<p align="center">
-  <samp>aka <strong>@timeassassinRG</strong> — coder, puzzle-solver, researcher</samp>
-</p>
 
 ### ✉️ Get in Touch
 | Channel | Link |

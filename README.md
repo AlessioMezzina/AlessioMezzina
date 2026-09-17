@@ -19,7 +19,3 @@
 | **Industry** | SDE Intern, **STMicroelectronics** (Feb – Dec 2023) — PoCs with Power Automate Desktop |
 | **Tutoring** | University tutor for *Operating Systems* courses (2025) |
 | **Tutoring** | University tutor for *Algorithms* courses (2024-2025) |
-
----
-> “You don’t need a reason to help people.”  
-> — **Zidane Tribal**, *Final Fantasy IX*
